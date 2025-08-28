@@ -1,0 +1,6 @@
+{
+  "server_host": "0.0.0.0",
+  "server_port": 5000,
+  "default_client_host": "127.0.0.1",
+  "default_client_port": 5000
+}
